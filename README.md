@@ -3,8 +3,9 @@
 Solver for the knapsack problem with computed cost for each element.
 
 ## Installation
-* Rename 'cost.sample.py' to 'cost.py'
+* Rename 'cost-sample.py' to 'cost.py'
 Fill the file with your own cost function.
+You can also rewrite the associated tests ('/tests/test_cost_sample.py').
 
 ## Usage
 
