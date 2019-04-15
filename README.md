@@ -2,6 +2,13 @@
 
 Solver for the knapsack problem with computed cost for each element.
 
+![Operating diagram](image/operating_diagram.png)
+
+## Requirements
+
+* Python 3.X
+* Python module : `ortools` (installation : `pip3.7 install ortools`)
+
 ## Installation
 
 * Rename `cost-sample.py` to `cost.py`
